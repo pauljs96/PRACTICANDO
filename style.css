@@ -1,0 +1,388 @@
+
+.header__img {                      
+    width: 100px;
+    margin-top: 0px;
+    margin-left: 200px;
+  }
+  .MainTittle1
+  {
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+.intro
+{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+#main_p
+{
+    font-weight: bold;
+    margin-top: 40px;
+    text-align: center;
+}
+#PrincipalPrecio
+{
+    margin: 20px 0px;
+    margin-left: 220px;
+    border-radius: 20px;
+        overflow: hidden;
+        padding-bottom: 10px;
+        transition: 450ms opacity;
+        display: inline-block;
+        transition: 450ms all;
+        transform-origin: center left;
+        position: relative;
+}
+.star_img{
+    margin-top: 90px;
+    width: 120px;
+    display: block;
+    margin: auto;
+}
+#Ttext
+{
+    text-align: center;
+}
+.blockquote-footer
+{
+    text-align: center;
+}
+.card-text
+{
+    margin-bottom: 30px;
+}
+#PrincipalPrecio:hover
+{
+    transform: translate3d(100px,0,0);
+
+    transform: scale(1.2);
+    opacity: 1;
+
+}
+.card-title-Start
+{
+    margin-top: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#TCard:hover
+{
+
+    transform: scale(1.2);
+    opacity: 1;
+}
+#TCard
+{
+    margin: 20px 0px;
+    margin-left: 170px;
+    border-radius: 20px;
+        overflow: hidden;
+        padding-bottom: 10px;
+        transition: 450ms opacity;
+        display: inline-block;
+        transition: 450ms all;
+        transform-origin: center left;
+        position: relative;
+        transform: translate3d(100px,0,0);
+
+    }
+#start_btn
+{
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+}
+#start_btn_Fi
+{
+    border-radius: 12px;
+    margin-bottom: 20px;
+    
+}
+#Started-box
+{
+    border-top-width: 100px;
+    border-right-width: 1em;
+    border-bottom-width: thick;
+    border-left-width: thick;
+
+}
+.MainTittle2
+{
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+  
+  margin-top: 100px;
+
+}
+.img-responsive
+{
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 100px;
+}
+  .main_img
+  {
+      width: 450px;
+      margin-left: 100px;
+      margin-top: 40px;
+  }
+  .Equipo_img
+  {
+      display: block;
+      margin: auto;
+      width: 600px;
+      margin-top: 30px;
+      margin-bottom: 40px;
+  }
+  #main_btn1
+  {
+      margin-top: 150px;
+      margin-left: 500px;
+  }
+  #main_btn2
+  {
+    margin-top: 500px;
+
+  }
+  #testimonial
+  {
+      text-align: center;
+      font-weight: bold;  
+        font-size: 30px;  
+        margin-top: 50px;  
+}
+#testi_p
+{
+    text-align: center;
+}
+#card_test
+{
+    margin: 50px;
+}
+#About_tittle
+{
+text-align: center;
+margin-top: 60px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+}
+#About_p
+{
+    text-align: center;
+}
+.start_img
+{
+    width: 350px;
+    margin-left: 450px;
+    display: block;
+  
+}
+.card-text-About
+{
+    text-align: left;
+}
+#badge
+{
+    font: 0.4em sans-serif;
+    float: right;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#tiempo
+{
+    font-size: 15px;
+    text-align: center;
+}
+#Precio
+{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 35px;
+    font-weight:bold;
+}
+#Pricing_Tittle
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.table 
+{
+    text-align: center;
+}
+
+#About_h2
+{
+    margin-top: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+text-align: center;
+font-size: 35px;
+}
+.About_img2
+{
+display: block;
+margin: auto;
+width: 600px;
+margin-bottom: 90px;
+margin-top: 90px;
+}
+  .form{
+      position:absolute;
+      margin-top: 50px;
+    margin-left: 1050px;
+    margin-right: 80px;
+    
+  }
+  .Contact_img
+  {
+     margin-top: 90px;
+      margin-left: 270px;
+      margin-bottom: 210px;
+      width: 500px;
+  }
+  .Contact_img2
+  {
+     margin-top: 90px;
+      margin-left: 270px;
+      margin-bottom: 10px;
+      width: 500px;
+  }
+  .Contact_img3
+  {
+     margin-top: 60px;
+      margin-left: 270px;
+      margin-bottom: 160px;
+      width: 500px;
+  }
+  .About_img
+  {
+      display: block;
+      margin: auto;
+  }
+#sb_contact
+{
+    margin-top: 20px;
+    margin-left: 90px;
+    border-radius: 20px;
+    
+}
+#sb_contact2
+{
+    margin-top: 20px;
+    margin-left: 120px;
+    border-radius: 20px;
+    
+}
+
+#SignInB
+{
+    margin-right: 50px;
+}
+::-webkit-scrollbar-track{
+  background: rgba(190, 189, 189, 0.219);
+}
+::-webkit-scrollbar-thumb{
+  background: rgba(255, 255, 255, 0.281);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.699);
+}
+
+.footer-clean {
+    padding:50px 0;
+    background-color:#fff;
+    color:#4b4c4d;
+  }
+  
+  .footer-clean h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
+  
+  .footer-clean ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    margin-bottom:0;
+  }
+  
+  .footer-clean ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-clean ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-clean .item.social {
+    text-align:right;
+  }
+  
+  @media (max-width:767px) {
+    .footer-clean .item {
+      text-align:center;
+      padding-bottom:20px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .footer-clean .item.social {
+      text-align:center;
+    }
+  }
+  
+  .footer-clean .item.social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin-left:10px;
+    margin-top:22px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-clean .item.social > a:hover {
+    opacity:0.9;
+  }
+  
+  @media (max-width:991px) {
+    .footer-clean .item.social > a {
+      margin-top:40px;
+    }
+  }
+  
+  @media (max-width:767px) {
+    .footer-clean .item.social > a {
+      margin-top:10px;
+    }
+  }
+  
+  .footer-clean .copyright {
+    margin-top:14px;
+    margin-bottom:0;
+    font-size:13px;
+    opacity:0.6;
+  }
+  .footer-clean .copyright2 {
+    margin-top:0px;
+    margin-bottom:0;
+    font-size:13px;
+    opacity:0.6;
+  }
+  
